@@ -80,6 +80,5 @@ NewsInspector/
 
 **Devanaboyina Saketh Ram**  
 _IIT Kharagpur | Electrical Engineering | Aspiring ML Engineer_
-
-🖂 [sakethram2569@gmail.com](mailto:sakethram2569@gmail.com)  
+📧 [sakethram2569@gmail.com](mailto:sakethram2569@gmail.com)  
 🔗 [View GitHub Profile](https://github.com/sakethram2569)
